@@ -39,13 +39,9 @@
         <item>See all your apps.\n
         Touch the Launcher icon. @drawable/all_apps</item>
 
-        <!-- Tip: How to survive in CyanogenMod. -->
+        <!-- Tip: How to survive in CyanMobile. -->
         <item>Rules\n
         The only rule of CyanMobile: You dont ask for ETAs.</item>
-
-        <item>CyanMobile ROMUpdater\n
-        Tap Settings -> Additional system updates frequently.\n
-        Most likely there could be something new</item>
 
         <!-- Tip: How to get nightly builds. -->
         <item>Attention (Advanced)\n
@@ -54,6 +50,10 @@
         <!-- Tip: Longpress in Launcher (all apps) to drag apps to the home screen. -->
         <item>Drag apps to your Home screen.\n
         Touch &amp; hold an app in the Launcher until it vibrates.</item>
+
+        <!-- Tip: How to get CyanMobile builds. -->
+        <item>CyanMobile ROMUpdater\n
+        Tap Settings -> Additional system updates frequently.There could be something yum.</item>
 
         <!-- Tip: DrKmobs -->
         <item>Do not listen to Dr Kmobs\n

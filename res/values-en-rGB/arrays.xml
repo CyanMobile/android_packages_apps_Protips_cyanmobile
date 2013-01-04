@@ -17,8 +17,17 @@
 <resources xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string-array name="tips">
+    <!-- Tip: Where the launcher icon is and what it does. With icon. -->
+    <item>CyanMobile eXperience\n
+    by Squadzone </item>
     <item msgid="4457112202911142877">"See all your apps."\n" Touch the Launcher icon. @drawable/all_apps"</item>
+    <!-- Tip: How to survive in CyanMobile. -->
+    <item>Rules\n
+    The only rule of CyanMobile: You dont ask for ETAs.</item>
     <item msgid="8842580895829057430">"Drag apps to your Home screen."\n" Touch &amp; hold an app in the Launcher until it vibrates."</item>
+    <!-- Tip: How to get CyanMobile builds. -->
+    <item>CyanMobile ROMUpdater\n
+    Tap Settings -> Additional system updates frequently.There could be something yum.</item>
     <item msgid="8903218961940756528">"Rearrange your Home screen."\n" Touch &amp; hold an item and when it vibrates, drag it where you want it to go."</item>
     <item msgid="3123213860439458492">"Remove items."\n" Touch &amp; hold an item and when it vibrates, drag it to the Recycle Bin icon. @drawable/recycle bin"</item>
     <item msgid="1000948398885889319">"Multiple Home screens."\n" Swipe left or right to switch. Drag items to other screens."</item>
